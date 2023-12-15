@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Adriano Spitzner&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <p align="center"><strong></strong>Olá eu sou Adriano Spitzner, sou estudante na área da tecnologia. <br><br> Iniciei este ano os estudos para uma mudança de carreira, e acabei descobrindo uma paixão que é a área da programação, estou em estudo, aprendizado e aprofundamentos diario. Com muito empenho e dedicação logo estarei dando os próximos passos</strong> focused on web development.</p>&nbsp;
 
